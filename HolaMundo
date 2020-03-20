@@ -7,3 +7,5 @@ import (
 func main() {
 	fmt.Println("Hola Mundo desde el lenguaje Go")
 }
+
+https://play.golang.org/p/jfGWcukIn5u
